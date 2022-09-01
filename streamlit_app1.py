@@ -9,3 +9,5 @@ streamlit.subheader("BREAKFAST MENU")
 streamlit.write("✨ Chappathi with dal")
 streamlit.write("✨ Dosa with sambar")
 streamlit.write("✨ Sambar Idli")
+
+streamlit.header('🍌🥭 Build Your Own Fruit Smoothie 🥝🍇')
