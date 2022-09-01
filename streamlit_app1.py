@@ -1,9 +1,11 @@
 import streamlit
 
 streamlit.title("My Parents Healthy Diner")
+streamlit.markdown("**Have a happy day with tasty dishes !**")
+
 streamlit.header("Today's Special")
 streamlit.subheader("BREAKFAST MENU")
-streamlit.markdown("**Have a happy morning with tasty dishes !**")
+
 streamlit.write("Chappathi with dal")
 streamlit.write("Dosa with sambar")
 streamlit.write("Sambar Idli")
